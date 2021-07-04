@@ -34,7 +34,7 @@ export const projectsData = [
     title: 'Movie App-Netflix Clone',
     info: 'This Front-End App Render Movies List as A Styled React Component',
     info2:
-      'This App uses Modern React Features Like Hooks and Functional Components and Data is fetched from TMDB API',
+      'This App uses Modern React Features Like Hooks ,Functional Components and Data is fetched from TMDB API using Axios',
     url: 'https://movie-app-a94b4.web.app/',
     repo: 'https://github.com/nasir-khan01/Movie-App/blob/main/README.md', // if no repo, the button will not show up
   },
