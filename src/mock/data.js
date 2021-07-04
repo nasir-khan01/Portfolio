@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I like Making Creative and Fun things using Code ,Currently enhancing my Knowledge on MERN Stack',
   paragraphThree: 'Looking For Opportunities to Implement My Knowledge in Real World Projects',
-  resume: '', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1A_QA7QGdQluXun2DA1FreEQDWnt42mgk/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
