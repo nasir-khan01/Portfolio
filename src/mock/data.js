@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'profilepic.png',
   paragraphOne:
-    'I am a Computer Science Student Currently Persuing Master Of Computer Application at Birla Institute Of Technology Mesra ,Jaipur',
+    'I am a Computer Science Student Currently Pursuing Master Of Computer Application at Birla Institute Of Technology Mesra ,Jaipur',
   paragraphTwo:
-    'I like Making Creative and Fun things using Code ,Currently enhancing my Knowledge on MERN Stack',
+    'I like Making Creative and Fun things using Code ,Currently enhancing my Knowledge on MERN Stack and React Native',
   paragraphThree: 'Looking For Opportunities to Implement My Knowledge in Real World Projects',
   resume: 'https://drive.google.com/file/d/1A_QA7QGdQluXun2DA1FreEQDWnt42mgk/view?usp=sharing', // if no resume, the button will not show up
 };
