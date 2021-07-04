@@ -32,7 +32,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'movie_app.png',
     title: 'Movie App-Netflix Clone',
-    info: 'This Front-End App Renders Movies List as A Styled React Component',
+    info: 'This Front-End App Render Movies List as A Styled React Component',
     info2: 'This App uses Modern React Features Like Hooks and Functional Components',
     url: 'https://movie-app-a94b4.web.app/',
     repo: 'https://github.com/nasir-khan01/Movie-App/blob/main/README.md', // if no repo, the button will not show up
@@ -41,7 +41,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'covid-19_tracker.png',
     title: 'Covi-Track',
-    info: 'Covi-Track is a Covid-19 Tracker that Displays Covid-19 cases ,recoveries and other important insights of multiple countries on a World Map',
+    info: 'Covi-Track is a Covid-19 Tracker that Displays important Insights like Covid-19 cases ,recoveries and Deaths Data of multiple countries on a World Map',
     info2: 'This App uses disease.sh API to Display Data and Chart.js to Display Charts',
     url: 'https://covi-track-30cbd.web.app/',
     repo: 'https://github.com/nasir-khan01/CoviTrack', // if no repo, the button will not show up
